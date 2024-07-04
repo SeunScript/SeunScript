@@ -23,7 +23,7 @@ I'm a passionate web developer with a focus on backend development using PHP. I 
 Feel free to reach out if you want to collaborate on a project, need help with PHP, or just want to connect.
 
 
-- [![](https://img.shields.io/badge/Linkedin-Connect-blue)](https://linkedin.com/jayeoba_tunmise)
+- [![](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/in/jayeoba_tunmise)
 
 - [![](https://img.shields.io/badge/Twitter-Connect-blue)](https://twitter.com/kingforce_it)
 
