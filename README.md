@@ -22,14 +22,14 @@ I'm a passionate web developer with a focus on backend development using PHP. I 
 
 Feel free to reach out if you want to collaborate on a project, need help with PHP, or just want to connect.
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- X: [My X Profile](https://www.x.com/in/kingforce_it)
-- Email: [jayeobatumise@gmail.com](mailto:jayeobatumise@gmail.com)
 
-## Let's Connect!
+- [![](https://img.shields.io/badge/Linkedin-Connect-blue)](https://linkedin.com/jayeoba_tunmise)
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
-[![](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kingforce_it)
+- [![](https://img.shields.io/badge/Twitter-Connect-blue)](https://twitter.com/kingforce_it)
+
+- [![](https://img.shields.io/badge/Email-Connect-blue)](mailto:jayeobatumise@gmail.com)
+
+
 
 
 
