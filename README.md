@@ -27,7 +27,7 @@ Feel free to reach out if you want to collaborate on a project, need help with P
 
 - [![](https://img.shields.io/badge/Twitter-Connect-blue)](https://twitter.com/kingforce_it)
 
-- [![](https://img.shields.io/badge/Instagram-Connect-blue)]([https://Instagram.com/kingjaiyeobatunmise](https://www.instagram.com/jaiyeobatunmise?igsh=MXdyYzdhMGN3a2Z2eQ%3D%3D&utm_source=qr))
+- [![](https://img.shields.io/badge/Instagram-Connect-blue)](https://www.instagram.com/jaiyeobatunmise?igsh=MXdyYzdhMGN3a2Z2eQ%3D%3D&utm_source=qr)
 
 - [![](https://img.shields.io/badge/Email-Connect-blue)](mailto:jayeobatumise@gmail.com)
 
