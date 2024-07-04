@@ -4,10 +4,10 @@
 
 I'm a passionate web developer with a focus on backend development using PHP. I love creating efficient and scalable web applications that solve real-world problems. With a keen eye for detail and a strong foundation in computer science, I aim to deliver high-quality code and innovative solutions.
 
-- 🔭 I’m currently working on **E-commerce Platform** using JavaScript, Laravel and MySQL
-- 👯 I’m looking to collaborate on **open-source PHP projects**
-- 💬 Ask me about **PHP, Laravel, MySQL, and Web Development**
-- 📫 How to reach me: [jayeobatumise@gmail.com](mailto:jayeobatumise@gmail.com)
+- 👨🏽‍💻 I’m currently working on **E-commerce Platform** using JavaScript, Laravel and MySQL
+- 🔗 I’m looking to collaborate on **open-source PHP projects**
+- ⁉ Ask me about **PHP, Laravel, MySQL, and Web Development**
+- 📩📧✉ How to reach me: [jayeobatumise@gmail.com](mailto:jayeobatumise@gmail.com)
 
 ## Skills
 
