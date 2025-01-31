@@ -6,7 +6,6 @@ I am a passionate web developer with a focus on backend development using PHP & 
 
 
 - 🔗 I am looking to collaborate on **PHP or Python projects**
-- ⁉ Ask me about **PHP, Laravel, MySQL, and Web Development**
 - 📩 How to reach me: [jayeobatumise@gmail.com](mailto:jayeobatumise@gmail.com)
 
 ## Skills
@@ -30,9 +29,3 @@ Feel free to reach out if you want to collaborate on a project, need help with P
 - [![](https://img.shields.io/badge/Instagram-Connect-blue)](https://www.instagram.com/jaiyeobatunmise?igsh=MXdyYzdhMGN3a2Z2eQ%3D%3D&utm_source=qr)
 
 - [![](https://img.shields.io/badge/Email-Connect-blue)](mailto:jayeobatumise@gmail.com)
-
-
-
-
-
-
